@@ -1,10 +1,15 @@
 ## **O QUE DEVE SER UTILIZADO?**
 
 • Variáveis
+
 • Operadores
+
 • Laços de repetição
+
 • Estruturas de decisões
+
 • Funções
+
 • Classes e Objetos
 
 ## OBJETIVO
