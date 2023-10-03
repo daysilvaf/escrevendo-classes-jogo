@@ -1,3 +1,7 @@
+Projeto em que foi desenvolvido um molde de objeto para representar personagens de jogos.
+
+**INSTRUÇÕES PARA ENTREGA**
+
 ## **O QUE DEVE SER UTILIZADO?**
 
 • Variáveis
